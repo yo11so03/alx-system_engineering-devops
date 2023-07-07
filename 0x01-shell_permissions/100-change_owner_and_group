@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --help vincent:staff
+chown -hR vincent:staff
